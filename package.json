@@ -1,7 +1,8 @@
 {
-  "name": "shop-view",
+  "name": "womenshop-app",
   "version": "0.1.0",
   "private": true,
+  "home": "https://faysalalaoui.github.io/womenshop/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "mdbreact": "^4.19.0",
@@ -14,7 +15,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
   },
   "eslintConfig": {
     "extends": "react-app"

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # womenshop
 React Application
 =======
