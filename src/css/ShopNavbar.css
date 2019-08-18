@@ -1,0 +1,42 @@
+.logo-text{
+	font-weight: 600;
+	color: #fbb6de;
+}
+.logo-text span{
+	color: #ffffff;
+}
+.shopping-menu{
+	margin-right: 20px !important;
+}
+.shopping-menu li{
+	margin-right: 10px !important;
+}
+.hearts-counter{
+	display: block;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	background-color: #feff0b;
+    border-radius: 50%;
+	font-size: 14px;
+    width: 20px;
+    height: 20px;
+    color: #000;
+    font-weight: 700;
+}
+.cart-counter{
+	display: block;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	background-color: #feff0b;
+    border-radius: 50%;
+	font-size: 14px;
+    width: 20px;
+    height: 20px;
+    color: #000;
+    font-weight: 700;
+}
+.cart-add-list .fa-shopping-bag{
+	padding-right: 7px !important;
+}

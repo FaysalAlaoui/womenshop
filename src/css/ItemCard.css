@@ -1,0 +1,49 @@
+.ic-container{
+	background-color: #fff;
+	margin-bottom: 25px;
+}
+.ic-wrapper{
+	background-color: #ffd9f0b5;
+	height: 100%;
+}
+.ItemCardTitle{
+	float: left;
+	clear: both;
+}
+.ItemCardDesc{
+	float: left;
+	clear: both;
+}
+.ic-quick-view{
+	cursor: pointer;
+	display: block;
+	position: absolute;
+	text-align: center;
+	width: 50%;
+    padding: 10px 0;
+    left: 25%;
+    bottom: 40%;
+    background: rgba(255, 255, 255, 0.75);
+    z-index: 77;
+    font-size: 90%;
+    font-weight: 400;
+    display: none;
+}
+.ic-new{
+	display: block;
+	position: absolute;
+	text-align: center;
+	vertical-align: middle;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	border: 4px solid #ffffff;
+	left: -22px;
+	top: -14px;
+	padding: 15px 0;
+	z-index: 77;
+	background-color: #ff6565f5;
+	font-weight: 500;
+	color: #ffffff;
+	display: none;
+}

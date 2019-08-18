@@ -1,0 +1,39 @@
+.ItemCardShopBar{
+	padding-top: 5px;
+}
+.ItemShopIcons ul{
+	padding-left: 0;
+	list-style: none;
+	float: left;
+}
+.ItemShopIcons ul li{
+	display: inline-block;
+	margin-right: 15px;
+}
+.ItemShopPrice p{
+	display: inline-block;
+	float: right;
+}
+.ItemShopIcons ul li button{
+	color: #909090 !important;
+	border: none;
+	background-color: transparent;
+}
+.heart-butt-like{
+	color: #DB4336;
+}
+.ItemShopIcons ul li .heart-butt-like:hover{
+	color: #DB4336 !important;
+}
+.ItemShopIcons ul li .heart-butt-like:focus{
+	outline: none !important;
+}
+.cart-butt-add{
+	color: #2A7C0E;
+}
+.ItemShopIcons ul li .cart-butt-add:hover{
+	color: #2A7C0E !important;
+}
+.ItemShopIcons ul li .cart-butt-add:focus{
+	outline: none !important;
+}
