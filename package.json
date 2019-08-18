@@ -2,7 +2,7 @@
   "name": "shop-view",
   "version": "0.1.0",
   "private": true,
-  "home": "https://faysalalaoui.github.io/womenshop/",
+  "homepage": "https://faysalalaoui.github.io/womenshop/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "mdbreact": "^4.19.0",
