@@ -1,7 +1,7 @@
 {
   "name": "shop-view",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://faysalalaoui.github.io/womenshop/",
   "dependencies": {
     "gh-pages": "^2.1.1",
